@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 80">
+  <!-- Heart Icon -->
+  <g transform="translate(20,-3)">
+    <!-- Left half -->
+    <path d="M40 30 
+             C20 10, 10 40, 40 55 
+             Z" 
+          fill="#ff8a3d"/>
+    <!-- Right half -->
+    <path d="M40 30 
+             C60 10, 70 40, 40 55 
+             Z" 
+          fill="#ffc46b"/>
+  </g>
+
+  <!-- Text -->
+  <text x="92" y="48"
+        font-family="Open Sans, sans-serif"
+        font-size="40" 
+        font-weight="700"
+        letter-spacing="1">
+
+    <tspan fill="#ff8a3d">Work</tspan><tspan fill="#ffc46b">Flow</tspan>
+
+  </text>
+</svg>

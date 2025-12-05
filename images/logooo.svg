@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 510 120">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 124 32">
 
-  <!-- Scale entire logo 1.5x and center it -->
-  <g transform="scale(1.5) translate(0,0)">
+  <!-- Everything shifted DOWN by 5px -->
+  <g transform="translate(-17,-4) scale(0.48)">
 
     <!-- Heart Icon -->
     <g transform="translate(20,-3)">
